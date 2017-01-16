@@ -48,7 +48,7 @@ define("IMG_DIR", STORAGE_PATH . 'src/'); // 圖片存放目錄
 define("THUMB_DIR", STORAGE_PATH . 'thumb/'); // 預覽圖存放目錄
 define("PHP_SELF2", 'index.htm'); // 入口檔名
 define("PHP_EXT", '.htm'); // 第一頁以後生成檔案之副檔名
-define("TITLE", 'Pixmicat!-PIO'); // 網頁標題
+define("TITLE", '无名区'); // 網頁標題
 define("HOME", '../'); // 回首頁的連結
 define("TOP_LINKS", ''); // 頁面右上方的額外連結，請直接以[<a href="網址" target="_blank" rel="noreferrer">名稱</a>]格式鍵入，如果不需要開新視窗可刪除target一段
 define("ADMIN_HASH", 'TO-BE-COMPUTED-BY-GENHASH'); // 管理者密碼 (Hash 加入 Salt)
